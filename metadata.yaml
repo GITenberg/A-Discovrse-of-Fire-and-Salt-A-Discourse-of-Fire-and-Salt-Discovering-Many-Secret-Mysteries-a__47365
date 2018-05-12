@@ -1,15 +1,21 @@
 _repo: A-Discovrse-of-Fire-and-Salt-A-Discourse-of-Fire-and-Salt-Discovering-Many-Secret-Mysteries-a__47365
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Stephens, Edward
     gutenberg_agent_id: '44280'
     url: http://www.gutenberg.org/2009/agents/44280
+covers:
+- cover_type: archival
+  image_path: 47365-h/images/cover.jpg
 creator:
   author:
     agent_name: Vigenère, Blaise de
     gutenberg_agent_id: '44279'
     url: http://www.gutenberg.org/2009/agents/44279
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47365#A-Discovrse-of-Fire-and-Salt-A-Discourse-of-Fire-and-Salt-Discovering-Many-Secret-Mysteries-a_
 gutenberg_issued: '2014-11-16'
 gutenberg_type: Text
 identifiers:
