@@ -24,6 +24,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "A Discovrse of Fire and Salt (A Discourse of Fire and Salt)\r\nDiscovering\
   \ Many Secret Mysteries as well Philosophicall,\r\nas Theologicall"
 url: http://www.gutenberg.org/ebooks/47365
